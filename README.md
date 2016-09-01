@@ -1,7 +1,7 @@
 EdJUG
 ===
 
-This is the EdJUG website. It's built with [Jekyll](http://jekyllrb.com) using the Flex theme by [The Development](http://thedevelopment.co).
+This is the EdJUG website - view it online at http://www.edjug.org/. It's built with [Jekyll](http://jekyllrb.com) using the Flex theme by [The Development](http://thedevelopment.co).
 
 
 Making changes
