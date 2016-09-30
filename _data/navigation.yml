@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Announcements 
+  url: /announcements/
+
+- title: Meetups  
+  url: /meetups/
+
+- title: Contact
+  url: /contact/
+
+- title: Search
+  url: /search/
