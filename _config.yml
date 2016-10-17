@@ -6,6 +6,7 @@ description: Edinburgh Java User Group
 logo: logo.png
 search: true
 url: http://www.edjug.org
+future: true
 
 # Jekyll configuration
 
