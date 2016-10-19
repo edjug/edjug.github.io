@@ -8,7 +8,7 @@ excerpt: "Secret Scala talk"
 
 # Agenda
 
-Katy Rae will present a short talk entitled "Secret Scala" followed by a [lean coffee](http://agilecoffee.com/leancoffee/) session.
+Katy Rae will present a short talk entitled "Scala by stealth" followed by a [lean coffee](http://agilecoffee.com/leancoffee/) session.
 
 There may also be some late breaking surprise talks.
 
