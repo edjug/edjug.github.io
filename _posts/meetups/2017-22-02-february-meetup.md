@@ -7,7 +7,6 @@ date: 2017-02-22
 ---
 
 ## Android Security - a tour from boot 
-### Ed Austin
 
 For our first talk of 2017 we're very lucky to have Ed Austin talk on Android security.
 
