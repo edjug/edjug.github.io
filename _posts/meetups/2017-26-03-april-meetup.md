@@ -10,7 +10,7 @@ date: 2017-04-26
 
 Henry Coles will discuss an alternate approach to testing that is popular in functional languages and look at how it can be applied in Java.
 
-## Java 8 stream
+## Java 8 streams
 
 Maurice Naftalin will discuss some lesser covered aspects of Java 8 streams.
 
