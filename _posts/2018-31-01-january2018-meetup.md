@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "January 2018 meetup"
-excerpt: "This month we have two Java One speakers for your edification"
+excerpt: "This month we have a deep dive into Kotlin"
 categories: meetups 
 date: 2018-01-31
 ---
