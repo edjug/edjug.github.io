@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "February 2018 meetup"
-excerpt: "It's February so we're doing Scala"
+excerpt: "February meetup is cancelled due to snow"
 categories: meetups 
 date: 2018-02-28
 ---
+
+**Sorry folk this meetup is cancelled due to the snow.**
 
 This month Keir will be presenting "Scala - more than a better Java".
 
