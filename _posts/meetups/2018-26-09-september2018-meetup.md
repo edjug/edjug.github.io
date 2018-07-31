@@ -20,3 +20,4 @@ As always anyone is welcome to attend, but if you do plan to come please get a [
 
 If you have any special dietary requirements please get in touch and we'll try to accommodate them.
 
+Hazelcast are also running a [free training course](https://hazelcast.com/events/free-instructor-led-training-edinburgh/) in Edinburgh on the 27th.
