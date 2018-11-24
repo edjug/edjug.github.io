@@ -8,7 +8,7 @@ date: 2018-11-28
 
 For our last meetup of 2018 Shehzad Nagi will talking about Openshift and Microservices from a developer's perspective in a talk appropriately entitled "Openshift and Microservices: a developer's perspective".
 
-He'll cover the key differences between k8s and Openshift, how to use it and works through a use case deploying a microservice application through various stage of project life cycle.
+He'll cover the key differences between k8s and Openshift, how to use it and work through a use case deploying a microservice application through various stages of project life cycle.
 
 As usual we'll also have a whole lot of pizza and fun.
 
