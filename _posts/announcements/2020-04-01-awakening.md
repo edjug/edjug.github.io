@@ -2,7 +2,7 @@
 layout: post
 title: "Awakening"
 excerpt: "Edjug has been sleeping for a little while"
-categories: announcements 
+categories: meetups, announcements 
 date: 2020-01-04
 ---
 
